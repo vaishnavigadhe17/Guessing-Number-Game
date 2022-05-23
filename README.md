@@ -4,8 +4,8 @@
       
 public class guessingNumberGame   {
 
-	// Function that implements the
-	// number guessing game
+	// Function that implements //
+	// number guessing game//
 	public static void
 	guessingNumberGame()
 	{
